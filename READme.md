@@ -17,5 +17,5 @@ Sum of Integers from 1 to 50 using a loop
 1. Initialize an accumulator variable for the sum.
 2. Use a for loop to iterate over numbers from 1 to 50 (inclusive)
 3. Display the final sum (outside the loop to print only once)
-4. 
+
 *Thank you*
