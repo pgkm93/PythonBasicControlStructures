@@ -14,7 +14,8 @@ checking if a numbers is Even or odd
 # Task - 2
 Sum of Integers from 1 to 50 using a loop
 
-1.Here i took total_sum as a variable and took a range from 1 to 51 (here number 51 is not included in the range).      
-2.Applied sum function to the range.
-
+1. Initialize an accumulator variable for the sum.
+2. Use a for loop to iterate over numbers from 1 to 50 (inclusive)
+3. Display the final sum (outside the loop to print only once)
+4. 
 *Thank you*
